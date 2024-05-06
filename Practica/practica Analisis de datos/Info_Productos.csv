@@ -1,0 +1,5 @@
+Producto,Fabricante,Peso,Dimensiones,Fecha_Fabricacion,Fecha_Vencimiento,Tipo_Pago,Vendedor,Tipo_Descuento,Temperatura,Humedad,Precipitacion,IPC,Confianza_Consumidor,Tipo_Cambio
+Producto_1,Fabricante_A,500g,10x10x5 cm,2023-12-01,2024-12-01,Tarjeta de crédito,Vendedor_1,Descuento por volumen,25,60,0.1,150,70,20.5
+Producto_2,Fabricante_B,750g,12x12x6 cm,2023-11-01,2024-11-01,Efectivo,Vendedor_2,Sin descuento,28,55,0.0,155,65,21.0
+Producto_3,Fabricante_C,600g,11x11x5.5 cm,2023-10-01,2024-10-01,Transferencia bancaria,Vendedor_3,Descuento por lealtad,23,70,0.2,145,75,20.0
+Producto_4,Fabricante_D,700g,15x15x7 cm,2023-09-01,2024-09-01,Tarjeta de crédito,Vendedor_1,Sin descuento,26,65,0.3,160,68,19.8
