@@ -1,10 +1,9 @@
 # Hipótesis:
-1 -En Buenos Aires (provincia) se vera una mayor taza de empleabilidad debido a su mayor densidad poblacional.
+1 -Existe una relación positiva entre la cantidad de empleados registrados y la esperanza de vida promedio. Esto significa que a medida que aumenta el número de empleados registrados, también lo hace la esperanza de vida promedio.
 2 -El aumento de la cantidad total de empleos está relacionado positivamente con el crecimiento de la economía de cada provincia.
 
 # Análisis exploratorio:
-Para la primera hipótesis, podrías analizar la correlación entre la densidad poblacional y el volumen de empleo. Si encuentras una correlación positiva significativa, podrías afirmar que la evidencia inicial respalda la hipótesis.
-Para la segunda hipótesis, podrías examinar la relación entre el aumento de la cantidad total de empleos y el crecimiento económico del país en la base de datos. Si observas que un aumento en la cantidad de empleos se correlaciona con un crecimiento económico, esto respaldaría la hipótesis.
+Primera Hipotesis: Es importante tener en cuenta que la correlación no implica causalidad. El hecho de que dos variables estén correlacionadas no significa que una cause la otra. Es necesario realizar análisis adicionales y considerar otros factores que podrían influir en ambas variables para determinar si existe una relación causal entre ellas.
 
 
 
