@@ -90,3 +90,4 @@ def inquilinos_compatibles(id_inquilinos, topn):
     # Devolver el resultado y el objeto Series
     return(resultado, similitud_series)
 
+
